@@ -1,0 +1,4 @@
+- an echo server and client in C
+- client send string to server, server echo change the string to uppercase and send back to client
+- using Linux network programming, socket etc.
+- ...
